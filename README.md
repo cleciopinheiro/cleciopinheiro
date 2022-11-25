@@ -1,9 +1,8 @@
+<div align="center">
 # Boas vindas ao meu perfil 😀
 
-Meu nome é Clécio Santos e sou completamente apaixonado por tecnologia 😎
-
-Atualmente sou estudante de Desenvolvimento Web na Trybe.
-
+Meu nome é Clécio Santos, sou do Rio de Janeiro, amo futebol ⚽ assistir séries e filmes 📺 e super antenado na tecnologia ⚡
+</div>  
 <br>
 
 <!-- GITHUB STATUS -->

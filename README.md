@@ -19,7 +19,6 @@ What I find amazing in the world of technology is how we can contribute to solut
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=cleciopinheiro&count_private=true&show_icons=true&theme=react&bg_color=00000000&hide_border=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleciopinheiro&theme=react&bg_color=00000000&hide_border=true&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cleciopinheiro&layout=compact&theme=react&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠 Skills
 

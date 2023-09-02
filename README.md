@@ -12,7 +12,7 @@ What I find amazing in the world of technology is how we can contribute to solut
 
 ## 🔗 Links
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/cleciopinheirodev](https://www.linkedin.com/in/cleciopinheirodev/))
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleciopinheirodev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cleciopinheirodev@gmail.com)
 
 ## 📊 Stats

@@ -3,8 +3,7 @@
 - 👩‍💻 I'm a Web Developer
 - 🧠 I'm currently learning Java
 - 👯‍ I try to collaborate in open-source projects in the languages that I master
-- 📫 Contact me through: cleciopinheirodev@gmail.com
-
+- 📫 Contact me through: clecio.pinheiro@outlook.com
 ## 🚀 About me
 
 I'm a full stack developer person who loves to learn and is always experimenting with new technologies.
